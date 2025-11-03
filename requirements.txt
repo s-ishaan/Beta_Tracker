@@ -1,7 +1,6 @@
-beautifulsoup4
-requests
-selenium
-python-dotenv
-lxml
-pandas
-pytest
+streamlit>=1.36.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+agno>=0.1.0
+exa-py>=1.0.0
+openai>=1.0.0
