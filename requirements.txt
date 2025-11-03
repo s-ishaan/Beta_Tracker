@@ -1,6 +1,6 @@
-streamlit>=1.36.0
-pandas>=2.0.0
-openpyxl>=3.1.0
-agno>=0.1.0
-exa-py>=1.0.0
-openai>=1.0.0
+streamlit==1.51.0
+pandas==2.3.3
+openpyxl==3.1.5
+agno==2.2.1
+openai==2.6.1
+exa-py==1.16.1
